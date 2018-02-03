@@ -1,24 +1,29 @@
-# hashpx
-Opinionated playbooks to build full-stack, user-facing software products
+# #px
+Opinionated playbooks to build full-stack, user-facing software products (pronounced hash-p-x)
 
 ## Hey Founders, Designers, and Developers!
 Do you want to build full-stack apps with single page frontends (web and native) at blazing speed, keeping an eye on the recent and best software practices?
 
 Well, we want to do that too! That is why we started **hashpx**. We compile years of experience from our own team and lots of other brilliant people in the software industry to give you playbooks to kickstart your next dream product. If you are already in a software product lifecycle then you might want to add our playbooks as power packs to your existing thought process.
 
+### What #px is NOT?
+We are not training on tech in general, there are lots of resources for that. This is where you learn to get shit done, daily. We help you reach the pace needed.
+
 ## Context
 We are focused on **rapid development**, **measurement of impact** and **quick product iteration**. That means our playbooks are geared towards founders (+ product managers/owners), designers and developers.
 
 We want to help all young software product teams get started and stay agile in their first 6 - 24 months of product development cycle, which is a very crucial period. Our thoughts will apply if you are building full-stack user-facing software products.
 
-We keep in mind the following **contexts** that apply to you:
+
+
+### We keep in mind the following contexts that apply to you:
 - You want to focus on their core value proposition
 - Writing software is not a critical differentiator in your product
 - Starting and iterating quickly is key in your product
 - You want to focus on your customers and product features
 - You want to adhere to recent and best software practices/choices
 
-We are **opinionated** - our focus will include:
+### We are opinionated - our focus will include:
 - Agile as the character of your team
 - Lean development - learn, deliver early, empower your team, measure, iterate
 - Choice of Asana, Trello or JIRA or other project management tools
