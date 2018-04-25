@@ -25,5 +25,6 @@ You might want to read on the project startup playbook first if you have not don
 -  Node.js setup on your computer, [prefer LTS versions](https://nodejs.org/en/download/)
 -  Install create-react-app in your repository
 
-[Overview-of-React-SPA.md](Get an overview of React based SPA)
-[Start-with-React.md](Get started with your SPA)
+## Going forward
+-  [Get an overview of React based SPA](Overview-of-React-SPA.md)
+-  [Get started with your SPA](Start-with-React.md)
